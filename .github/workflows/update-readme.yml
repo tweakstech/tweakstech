@@ -14,6 +14,6 @@ jobs:
       - name: Actualizar README
         uses: jayrajput/readme-recent-repos@v2
         with:
-          username: TU_USUARIO
+          username: tweakstech
           readme_path: ./README.md
           max_repos: 4
