@@ -36,6 +36,3 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+nuestro+GitHub!;Contenido+tech+de+calidad+y+optimizaciones+reales." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/SLXNqRi.png" alt="Banner TweaksTech Pie" width="600" />
-</p>
