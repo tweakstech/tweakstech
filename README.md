@@ -28,7 +28,7 @@
 
 | Nombre | Estado | Descripción |
 |--------|--------|-------------|
-| ⚙️ **Herramienta de Optimización y Juegos** | 🚧 En desarrollo | Aplicación todo-en-uno para mejorar el rendimiento en Windows y aplicar configuraciones óptimas para juegos. Ajusta servicios, recursos, red y gráficos automáticamente según el hardware. Pensada para usuarios técnicos y gamers que buscan fluidez y control total. |
+| ⚙️ **Herramienta de Optimización para Windows y Juegos** | 🚧 En desarrollo | Aplicación todo-en-uno para mejorar el rendimiento en Windows y aplicar configuraciones óptimas para juegos. Ajusta servicios, recursos, red y gráficos automáticamente según el hardware. Pensada para usuarios técnicos y gamers que buscan fluidez y control total. |
 
 ---
 
