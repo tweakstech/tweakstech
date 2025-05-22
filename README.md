@@ -1,7 +1,7 @@
 <!-- GitHub README: Perfil técnico (versión con banners) -->
 
 <p align="center">
-  <img src="https://i.imgur.com/yyexAyl.png" alt="Banner TweaksTech Encabezado" width="600" />
+  <img src="https://github.com/tweakstech/tweakstech/blob/main/9327466.png" alt="Banner TweaksTech Encabezado" width="600" />
 </p>
 
 <h3 align="center">Informáticos con propósito: mejoramos, protegemos y te mantenemos al día.</h3>
