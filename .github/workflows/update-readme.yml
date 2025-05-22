@@ -1,0 +1,19 @@
+name: Actualizar README con repositorios
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Cada día a medianoche
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Actualizar README
+        uses: jayrajput/readme-recent-repos@v2
+        with:
+          username: TU_USUARIO
+          readme_path: ./README.md
+          max_repos: 4
