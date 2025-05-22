@@ -26,11 +26,7 @@
 
 ## 📦 Últimos proyectos publicados
 
-<p align="center">
-  <a href="https://github.com/tweakstech?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=tweakstech&show_icons=true&count_private=true&include_all_commits=true&hide=prs&hide_rank=true&custom_title=Repositorios%20recientes&theme=tokyonight" alt="Últimos proyectos" />
-  </a>
-</p>
+
 
 ---
 
