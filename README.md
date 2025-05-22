@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- GitHub README: Perfil técnico -->
 
-<!--
-**tweakstech/tweakstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">💻 Bienvenidos a nuestro GitHub TweaksTech 💡</h1>
+<p align="center">Somos informáticos... y te informamos 🔍👨‍💻👩‍💻</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🚀 Temas que desarrollamos</h2>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-Automatización-green?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Javascript-FrontEnd-yellow?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Privacidad-Datos-critical?style=for-the-badge&logo=keepassxc&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Optimización-Rendimiento-orange?style=for-the-badge&logo=windows&logoColor=white" /></a>
+</p>
+
+---
+
+## 📁 Últimos proyectos
+
+[![Repositorios recientes](https://github-readme-stats.vercel.app/api?username=tweakstech&show_icons=true&count_private=true&include_all_commits=true&hide=prs&hide_rank=true&custom_title=Repositorios%20recientes&theme=default)](https://github.com/TU_USUARIO?tab=repositories)
