@@ -24,12 +24,6 @@
 
 ---
 
-## 📦 Últimos proyectos publicados
-
-
-
----
-
 ## 🧰 Proyecto destacado
 
 | Nombre | Estado | Descripción |
